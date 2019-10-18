@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewIcon</string>
+    <string name="pirate_name">Pirate Name</string>
+    <string name="detail">Detail</string>
+</resources>
